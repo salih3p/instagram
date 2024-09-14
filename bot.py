@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters, CallbackContext
 
 # Bot token and admin ID
-BOT_TOKEN = "6849425629:AAEky0ZyqtAzifO_1cKqXPFSzlNkaE9U_TU"
+BOT_TOKEN = "7222598853:AAHLqnwRDPG0C_7AMEBVHlh4B2SCMxfRM-c"
 ADMIN_CHAT_ID = 6389146980
 
 # Authentication list (replace with valid user IDs)
